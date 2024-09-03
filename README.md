@@ -26,17 +26,18 @@ The program accepts the following input parameters:
 - The program has been tested with various input values to ensure accuracy, but real-world variations may occur.
 
 ## How to Use
+
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/sainandan2004/Horus-2.0_A-1-Launchpad.git
 
 ```markdown
-## How to Use
 
-1. **Navigate to the project directory:**
-   ```bash
-   cd Horus-2.0_A-1-Launchpad
-   ```
+
+   1. **Navigate to the project directory:**
+      ```bash
+      cd Horus-2.0_A-1-Launchpad
+      ```
 
 2. **Install the required library:**
    ```bash
