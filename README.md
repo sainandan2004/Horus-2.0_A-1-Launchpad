@@ -59,15 +59,12 @@ The program accepts the following input parameters:
 Make sure you have the following libraries installed:
 
 - Python 3.x
-- `numpy` (for numerical operations)
 - `pandas` (for data management)
-- `matplotlib` (for plotting and visualization)
-- `tkinter` (for creating a graphical user interface)
 
 You can install these libraries using the command:
 
 ```bash
-pip install numpy pandas matplotlib
+pip install pandas
 ```
 
 ## Example Output
@@ -90,23 +87,15 @@ Here is an example of the output produced by the estimator:
 
 The program has been thoroughly tested with unit tests to ensure the correctness of individual functions and overall calculations.
 
-## Contributions
+## Contributions 😎
 
-Contributions are welcome! Please open an issue to discuss your ideas, or submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+Contributions are welcomed ! Please open an issue to discuss your ideas, or submit a pull request with your changes.
 
 ## Contact
 
 For any questions or feedback, please contact the team members:
 - Kashireddy Sai Nandan Reddy
 - Padarthi Sai Kousik
-
-## References
-
-- [A-1 Fence Products](https://www.a-1fenceproducts.com)
 
 ---
 
