@@ -29,7 +29,6 @@ The program accepts the following input parameters:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/sainandan2004/Horus-2.0_A-1-Launchpad.git
-Here's the provided content formatted in Markdown:
 
 ```markdown
 ## How to Use
