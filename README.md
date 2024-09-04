@@ -27,6 +27,31 @@ The program accepts the following input parameters:
 3. **Labor Costs**: Calculates installation labor costs based on the size, difficulty, and location of the project.
 4. **Additional Costs**: Includes costs for security features, coatings, and other relevant customization options.
 
+## Fencing Cost Calculation Formulas
+
+**Component Quantities:**
+
+* **Number of fence posts:** `Number of posts = Fencing length / Post spacing`
+* **Number of base plates:** `Number of base plates = Number of posts`
+* **Number of anchor plates:** `Number of anchor plates = Number of base plates * Anchor plates per base plate`
+* **Number of clamps or screws:** `Number of clamps/screws = Number of posts`
+* **Number of weld mesh panels:** `Number of panels = Fencing length / Panel width`
+
+**Material Costs:**
+
+* **Total material cost:** `Total material cost = (Number of posts * Post cost) + (Number of base plates * Base plate cost) + ... + (Number of weld mesh panels * Panel cost)`
+
+**Labor Costs:**
+
+* **Labor cost:** `Labor cost = Fencing length * Labor rate per meter`
+
+**Total Cost:**
+
+* **Total cost:** `Total cost = Total material cost + Labor cost + Additional costs (e.g., security features, coatings)`
+
+**Note:** These formulas provide a general framework for calculating fencing costs. The specific values for component costs, labor rates, and other factors may vary depending on the project and local market conditions.
+
+
 ## Assumptions and Limitations
 
 - Material prices and labor rates are subject to change based on market conditions and location.
