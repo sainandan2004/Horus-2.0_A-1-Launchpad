@@ -117,9 +117,13 @@ Contributions are welcomed ! Please open an issue to discuss your ideas, or subm
 
 ## Contact
 
-For any questions or feedback, please contact the team members:
-- Kashireddy Sai Nandan Reddy
-- Padarthi Sai Kousik
+For any questions or feedback, please contact Us :
+- Kashireddy Sai Nandan Reddy - [sainandanreddy7709@gmail.com](mailto:sainandanreddy7709@gmail.com)
+- Padarthi Sai Kousik - [psaikousik@gmail.com](mailto:psaikousik@gmail.com)
+
+---
+
+This version includes direct mailto links for easy email access.
 
 ---
 
