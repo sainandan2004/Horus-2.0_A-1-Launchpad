@@ -123,8 +123,4 @@ For any questions or feedback, please contact Us :
 
 ---
 
-This version includes direct mailto links for easy email access.
-
----
-
 Feel free to adjust any details according to your specific project!
