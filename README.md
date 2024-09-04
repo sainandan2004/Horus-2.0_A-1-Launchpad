@@ -123,8 +123,4 @@ For any questions or feedback, please contact the team members:
 
 ---
 
-### Instructions for Adding Output Images
-
-Make sure to place your output images in an `images` folder within the project directory. Replace the placeholders `output1.png` and `output2.png` with your actual output image filenames.
-
 Feel free to adjust any details according to your specific project!
