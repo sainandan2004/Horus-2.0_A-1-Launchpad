@@ -58,7 +58,14 @@ The program accepts the following input parameters:
 - The program currently supports basic customization options; more advanced features may be added in future versions.
 - The program has been tested with various input values to ensure accuracy, but real-world variations may occur.
 
-## How to Run 
+
+---
+
+## How to Run
+
+Directly open the Jupyter notebook file `fencing_cost_calculator_jupyter_notebook.ipynb`
+
+Or
 
 1. Clone the repository:
    ```bash
@@ -68,7 +75,7 @@ The program accepts the following input parameters:
    ```bash
    cd Horus-2.0_A-1-Launchpad
    ```
-3. Install the required libraries: (Make sure you have python 3.x in your device)
+3. Install the required libraries (Make sure you have Python 3.x on your device):
    ```bash
    pip install pandas
    ```
@@ -76,6 +83,10 @@ The program accepts the following input parameters:
    ```bash
    python fencing_cost_calculator.py
    ```
+5. Follow the prompts to input the required parameters and select customization options.
+
+---
+
 5. Follow the prompts to input the required parameters and select customization options.
 
 ## Required Libraries
