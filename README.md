@@ -46,7 +46,7 @@ The program accepts the following input parameters:
    ```
 3. Install the required libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install pandas
    ```
 4. Run the main script:
    ```bash
