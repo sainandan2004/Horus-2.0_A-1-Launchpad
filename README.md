@@ -1,4 +1,3 @@
-Here's an updated version of the README file with the necessary library installations and placeholders for output images.
 
 ---
 
