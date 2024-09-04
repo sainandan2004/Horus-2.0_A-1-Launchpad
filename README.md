@@ -121,6 +121,4 @@ For any questions or feedback, please contact Us :
 - Kashireddy Sai Nandan Reddy - [sainandanreddy7709@gmail.com](mailto:sainandanreddy7709@gmail.com)
 - Padarthi Sai Kousik - [psaikousik@gmail.com](mailto:psaikousik@gmail.com)
 
----
 
-Feel free to adjust any details according to your specific project!
